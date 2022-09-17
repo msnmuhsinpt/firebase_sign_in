@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040688570602",
+    "project_id": "fir-sign-in-32fbe",
+    "storage_bucket": "fir-sign-in-32fbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040688570602:android:6e488012b161121a033793",
+        "android_client_info": {
+          "package_name": "com.example.firebase_sign_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040688570602-4al4dqf1hjo7gga2k3nd2guq795fck59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbGsqYQscda9zJNQG5TWGry4kaKTwZ5EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040688570602-4al4dqf1hjo7gga2k3nd2guq795fck59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
